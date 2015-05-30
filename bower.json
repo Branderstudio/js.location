@@ -1,0 +1,10 @@
+{
+  "name": "location",
+  "version": "0.0.1",
+  "moduleType": [
+    "amd"
+  ],
+  "main": [
+    "location.js"
+  ]
+}
